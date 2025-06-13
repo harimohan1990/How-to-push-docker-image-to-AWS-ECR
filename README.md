@@ -1,0 +1,1 @@
+# How-to-push-docker-image-to-AWS-ECR
